@@ -1,5 +1,5 @@
 {
-  "name": "visavi/openrtb",
+  "name": "awiackiewicz/openrtb",
   "type": "library",
   "description": "OpenRTB specification",
   "keywords": ["openrtb"],
