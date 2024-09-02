@@ -157,4 +157,4 @@ var_dump($responses);
 ```
 
 ## Install
-`composer require visavi/openrtb`
+`composer require awiackiewicz/openrtb`
